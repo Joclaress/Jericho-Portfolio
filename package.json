@@ -341,7 +341,7 @@
 
 
 
-"build": "export NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
+"build": "set NODE_OPTIONS=--openssl-legacy-provider; gatsby build",
   
 
 
